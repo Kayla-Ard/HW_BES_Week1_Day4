@@ -85,7 +85,6 @@ task_hierarchy_2 = [
     }
 ]
 
-# Testing the function with provided test cases
 print("Task Hierarchy 1:")
 list_tasks(task_hierarchy_1)
 
